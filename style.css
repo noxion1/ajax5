@@ -1,0 +1,13 @@
+li {
+    cursor: pointer;
+}
+li:hover {
+    color: purple;
+}
+
+.info {
+    cursor: default;
+}
+.info:hover {
+    color: gray;
+}
